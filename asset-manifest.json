@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-basics-ihplwijesena/static/css/main.5286b531.chunk.css",
-    "main.js": "/github-basics-ihplwijesena/static/js/main.a3ca24c1.chunk.js",
-    "main.js.map": "/github-basics-ihplwijesena/static/js/main.a3ca24c1.chunk.js.map",
+    "main.js": "/github-basics-ihplwijesena/static/js/main.cb9cb739.chunk.js",
+    "main.js.map": "/github-basics-ihplwijesena/static/js/main.cb9cb739.chunk.js.map",
     "runtime-main.js": "/github-basics-ihplwijesena/static/js/runtime-main.1cf0c134.js",
     "runtime-main.js.map": "/github-basics-ihplwijesena/static/js/runtime-main.1cf0c134.js.map",
     "static/js/2.713510d4.chunk.js": "/github-basics-ihplwijesena/static/js/2.713510d4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1cf0c134.js",
     "static/js/2.713510d4.chunk.js",
     "static/css/main.5286b531.chunk.css",
-    "static/js/main.a3ca24c1.chunk.js"
+    "static/js/main.cb9cb739.chunk.js"
   ]
 }
