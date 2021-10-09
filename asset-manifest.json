@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github-basics-ihplwijesena/static/css/main.91227a37.chunk.css",
-    "main.js": "/github-basics-ihplwijesena/static/js/main.0d440ba1.chunk.js",
-    "main.js.map": "/github-basics-ihplwijesena/static/js/main.0d440ba1.chunk.js.map",
-    "runtime-main.js": "/github-basics-ihplwijesena/static/js/runtime-main.406cf42e.js",
-    "runtime-main.js.map": "/github-basics-ihplwijesena/static/js/runtime-main.406cf42e.js.map",
-    "static/js/2.bae3c803.chunk.js": "/github-basics-ihplwijesena/static/js/2.bae3c803.chunk.js",
-    "static/js/2.bae3c803.chunk.js.map": "/github-basics-ihplwijesena/static/js/2.bae3c803.chunk.js.map",
-    "static/js/3.dbbc4834.chunk.js": "/github-basics-ihplwijesena/static/js/3.dbbc4834.chunk.js",
-    "static/js/3.dbbc4834.chunk.js.map": "/github-basics-ihplwijesena/static/js/3.dbbc4834.chunk.js.map",
+    "main.css": "/github-basics-ihplwijesena/static/css/main.7db29343.chunk.css",
+    "main.js": "/github-basics-ihplwijesena/static/js/main.900dbad9.chunk.js",
+    "main.js.map": "/github-basics-ihplwijesena/static/js/main.900dbad9.chunk.js.map",
+    "runtime-main.js": "/github-basics-ihplwijesena/static/js/runtime-main.94caae53.js",
+    "runtime-main.js.map": "/github-basics-ihplwijesena/static/js/runtime-main.94caae53.js.map",
+    "static/js/2.d78f6de6.chunk.js": "/github-basics-ihplwijesena/static/js/2.d78f6de6.chunk.js",
+    "static/js/2.d78f6de6.chunk.js.map": "/github-basics-ihplwijesena/static/js/2.d78f6de6.chunk.js.map",
+    "static/js/3.471ac429.chunk.js": "/github-basics-ihplwijesena/static/js/3.471ac429.chunk.js",
+    "static/js/3.471ac429.chunk.js.map": "/github-basics-ihplwijesena/static/js/3.471ac429.chunk.js.map",
     "index.html": "/github-basics-ihplwijesena/index.html",
-    "static/css/main.91227a37.chunk.css.map": "/github-basics-ihplwijesena/static/css/main.91227a37.chunk.css.map",
-    "static/js/2.bae3c803.chunk.js.LICENSE.txt": "/github-basics-ihplwijesena/static/js/2.bae3c803.chunk.js.LICENSE.txt"
+    "static/css/main.7db29343.chunk.css.map": "/github-basics-ihplwijesena/static/css/main.7db29343.chunk.css.map",
+    "static/js/2.d78f6de6.chunk.js.LICENSE.txt": "/github-basics-ihplwijesena/static/js/2.d78f6de6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.406cf42e.js",
-    "static/js/2.bae3c803.chunk.js",
-    "static/css/main.91227a37.chunk.css",
-    "static/js/main.0d440ba1.chunk.js"
+    "static/js/runtime-main.94caae53.js",
+    "static/js/2.d78f6de6.chunk.js",
+    "static/css/main.7db29343.chunk.css",
+    "static/js/main.900dbad9.chunk.js"
   ]
 }
